@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "express": "^4.18.1",
+    "readline": "^1.3.0"
+  },
+  "name": "sprint1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ./src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": " Magali Lima",
+  "license": "ISC",
+  "description": "Ferramenta para ajudar desenvolvedores com css"
+}
